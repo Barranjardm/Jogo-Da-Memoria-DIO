@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo da Memória</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Jogo da Memória</h1>
+        <span id="moves">Movimentos: 0</span>
+        <span id="pairs">Pares encontrados: 0</span>
+        <span id="timer">Tempo: 0s</span>
+        <button id="restart">Reiniciar</button>
+        <button id="toggle-sound">🔊 Som: Ativado</button>
+    </div>
+    <div id="game-grid"></div>
+    <div id="game-over"></div>
+    <footer>
+        <p>
+            Desenvolvido por 
+            <a href="https://github.com/Barranjardm" target="_blank">
+                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" class="github-logo">
+                Barranjardm
+            </a>
+        </p>
+    </footer>
+    <script src="./engine.js"></script>
+</body>
+</html>
