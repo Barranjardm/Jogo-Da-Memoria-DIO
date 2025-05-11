@@ -39,6 +39,6 @@ Vou ser sincero: **JavaScript é meu pesadelo**. Foi onde a IA entrou como *pair
 
 ---
 
-Feito com 🤯 (e alguns `console.log()` de desespero) por Matheus Barranjard.  
+Feito com 🤯 (e alguns `console.log()` de desespero) por Mim.  
 *"Código perfeito? lógico que não. Funcionando? Sim. E é isso que importa."* 🚀
 
